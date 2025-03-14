@@ -22,6 +22,7 @@
     height: auto;
 }
 
-#li {
-    text-align: center;
+#ul {
+    display: flex;
+    justify-content: center;
 }
