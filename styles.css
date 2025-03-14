@@ -22,7 +22,7 @@
     height: auto;
 }
 
-#ul {
+ul li {
     display: flex;
     justify-content: center;
 }
